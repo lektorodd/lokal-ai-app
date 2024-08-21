@@ -6,12 +6,12 @@ Lokale modellar som kan lastast ned og køyrast på maskina di. Ingen data som v
 ## llama-app-v2.py 
 er med langchain, for å enklare kunne legge til fleire modellar. Inkluderer strøyming av svar.
 
-<img src="dømev2.png" width="40%" />
+<img src="dømev2.png" width="75%" />
 
 ## llama-app.py
 er utan langchain, og har ikkje strøyming av svar. Første versjon.
 
-<img src="døme.png" width="40%" />
+<img src="døme.png" width="75%" />
 
 
 ## Du treng
